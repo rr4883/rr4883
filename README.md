@@ -2,7 +2,7 @@
 <!-- Your Name and Introduction -->
 # Hi there, I'm Sowmya R! 👋
 <!-- About Yourself -->
-I'm a dedicated B.Tech Computer Science and Engineering student at SRM University, actively seeking internships. My passion lies in Data Science, Machine Learning, and becoming a proficient Computer Network enthusiast. As a creative designer, I merge technology with creativity to innovate. Let’s connect and make a difference in the digital world.
+An enthusiastic fresher, a third year undergraduate in Computer Science and Engineering at SRM IST.Experienced in creating and improving user-friendly websites and creating impactful mobile apps with the latest technologies. Explore my repositories, and let's connect to build something awesome together! 💻🚀
 
 <!-- Contact Information -->
 ## 📫 Contact Me
