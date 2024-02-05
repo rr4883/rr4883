@@ -1,4 +1,6 @@
-![technology-785742_1280](https://github.com/rr4883/rr4883/issues/1#issue-2118133245)
+<p align="center">
+  <img src="(https://github.com/rr4883/rr4883/issues/1#issue-2118133245)" alt="☆☆☆" width="800">
+</p>!
 <!-- Your Name and Introduction -->
 # Hi there, I'm Sowmya R! 👋
 <!-- About Yourself -->
