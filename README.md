@@ -1,4 +1,4 @@
-![technology-785742_1280](https://github.com/gr2100/PROFILE/assets/103631083/f390ee93-6738-47a3-a201-93c233c81ef7)
+![technology-785742_1280](https://github.com/rr4883/PROFILE/assets/103631083/f390ee93-6738-47a3-a201-93c233c81ef7)
 <!-- Your Name and Introduction -->
 # Hi there, I'm Sowmya R! 👋
 <!-- About Yourself -->
@@ -13,8 +13,7 @@ I'm a dedicated B.Tech Computer Science and Engineering student at SRM Universit
 <!-- Social Media Links -->
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sowmya-r-43908b285/)
-[![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)]
-(https://www.hackerrank.com/profile/rr4883)
+[![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/rr4883)
 [![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/srmcse_261)
 <!-- Skills -->
 ## 🔧 Skills
