@@ -1,4 +1,4 @@
-![technology-785742_1280](https://github.com/gr2100/PROFILE/assets/103631083/f390ee93-6738-47a3-a201-93c233c81ef7)
+https://github.com/rr4883/rr4883/issues/1#issue-2118133245
 <!-- Your Name and Introduction -->
 # Hi there, I'm Sowmya R! 👋
 <!-- About Yourself -->
