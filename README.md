@@ -21,18 +21,18 @@ I'm a dedicated B.Tech Computer Science and Engineering student at SRM Universit
 ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
  ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=gr2100&theme=dracula&no-frame=true&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=rr4883&theme=dracula&no-frame=true&no-bg=true&margin-w=4)
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=gr2100&icon=0&color=3)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=rr4883&icon=0&color=3)](https://visitcount.itsvg.in)
 ## 📊 Github stats
-![gr2100's Stats](https://github-readme-stats.vercel.app/api?username=gr2100&theme=dracula&show_icons=true&hide_border=true&count_private=true)
-![gr2100's Streak](https://github-readme-streak-stats.herokuapp.com/?user=gr2100&theme=dracula&hide_border=true)
-![gr2100's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gr2100&theme=dracula&show_icons=true&hide_border=true&layout=compact)
+![rr4883's Stats](https://github-readme-stats.vercel.app/api?username=rr4883&theme=dracula&show_icons=true&hide_border=true&count_private=true)
+![rr4883's Streak](https://github-readme-streak-stats.herokuapp.com/?user=rr4883&theme=dracula&hide_border=true)
+![rr4883's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rr4883&theme=dracula&show_icons=true&hide_border=true&layout=compact)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=gr2100&limit=5&theme=dracula&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=rr4883&limit=5&theme=dracula&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=gr2100&icon=0&color=10)](https://visitcount.itsvg.in)
