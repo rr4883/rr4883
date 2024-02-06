@@ -2,7 +2,7 @@
 <!-- Your Name and Introduction -->
 # Hi there, I'm Sowmya R! 👋
 <!-- About Yourself -->
-🌟🌐An enthusiastic fresher, a third year undergraduate in Computer Science and Engineering at SRM IST.Experienced in creating and improving user-friendly websites and creating impactful mobile apps with the latest technologies. Explore my repositories, and let's connect to build something awesome together! 💻🚀
+🌟🌐An enthusiastic third year undergraduate in Computer Science and Engineering at SRM IST. Experienced in creating and improving user-friendly websites and creating impactful mobile apps with the latest technologies. Explore my repositories, and let's connect to build something awesome together! 💻🚀
 
 <!-- Contact Information -->
 ## 📫 Contact Me
