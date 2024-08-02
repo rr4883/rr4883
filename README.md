@@ -1,5 +1,5 @@
 
-<img src="https://github.com/user-attachments/assets/087f8de6-9160-4364-8c36-31b05e1fc594" style="width: 100vw;height:400px" alt="giphy"/>
+<img src="https://github.com/user-attachments/assets/365c6714-7eb2-4362-b7f1-309a22839880" style="width: 100vw;height:400px" alt="giphy"/>
 
 <!-- Your Name and Introduction -->
 # Hi there, I'm Sowmya R! 👋
