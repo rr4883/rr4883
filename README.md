@@ -1,16 +1,5 @@
 
-
-
-
-
-
-
-
-<video width="320" height="240" controls>
-  <source src="https://github.com/user-attachments/assets/9d8adf8c-c03e-467c-b217-fbeb9bf7b155" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
+![Hello (1)](https://github.com/user-attachments/assets/9022d54a-be3a-45e2-a17d-c0d115e326da)
 
 <!-- Your Name and Introduction -->
 # Hi there, I'm Sowmya R! 👋
