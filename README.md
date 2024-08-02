@@ -1,5 +1,6 @@
 
-![giphy](https://github.com/user-attachments/assets/365c6714-7eb2-4362-b7f1-309a22839880)
+<img src="https://github.com/user-attachments/assets/365c6714-7eb2-4362-b7f1-309a22839880" style="width: 100%;" alt="giphy"/>
+
 <!-- Your Name and Introduction -->
 # Hi there, I'm Sowmya R! 👋
 <!-- About Yourself -->
