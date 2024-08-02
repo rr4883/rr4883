@@ -1,5 +1,5 @@
 
-![laptop](https://github.com/user-attachments/assets/b49d62a0-3c32-44f3-be33-a3d3aca3c259)
+![giphy](https://github.com/user-attachments/assets/365c6714-7eb2-4362-b7f1-309a22839880)
 <!-- Your Name and Introduction -->
 # Hi there, I'm Sowmya R! 👋
 <!-- About Yourself -->
