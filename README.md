@@ -1,4 +1,5 @@
-![cbafe98f3a250722e4d4f58b9ff5bf2f](https://github.com/rr4883/rr4883/assets/103633691/0851dab1-7668-4f05-985a-0034238a7426)
+
+https://github.com/user-attachments/assets/e0dbf766-2b0f-4c6a-bfbf-cedbc60ea0f1
 <!-- Your Name and Introduction -->
 # Hi there, I'm Sowmya R! 👋
 <!-- About Yourself -->
